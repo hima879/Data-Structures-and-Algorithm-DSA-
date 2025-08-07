@@ -12,7 +12,7 @@ int main() {
             C[i][j] = A[i][j] * B[i][j];      // Multiply corresponding elements
         }
     }
-
+  
     // Step 3: Display the result matrix
     printf("Result of element-wise multiplication:\n");
     for (int i = 0; i < 3; i++) {             // Loop through rows
