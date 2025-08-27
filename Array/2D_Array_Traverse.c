@@ -1,3 +1,4 @@
+//this is a program for traversing teh elements of the 2D Array
 #include <stdio.h>
 
 #define ROWS 3
